@@ -2,6 +2,7 @@ body{
     background: url(images/bg_login.jpeg)
     no-repeat center center fixed;
     background-size: cover;
+    background-color:#000000;
     font-family: sans-serif;
     margin-top: 1%;
 }
@@ -64,6 +65,4 @@ a{
 p{
     font-size: 1rem;
 }
-body{
-background-color:#000000;
-}
+
