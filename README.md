@@ -1,2 +1,2 @@
 # my-project
-<pre>This is simple login pagr</pre>
+<pre>This is simple login page</pre>
